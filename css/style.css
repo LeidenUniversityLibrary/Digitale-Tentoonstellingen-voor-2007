@@ -1,0 +1,30 @@
+body, div, span, font, td {	font-family: Arial, Helvetica, sans-serif;
+							font-weight: normal;
+							text-decoration: none;
+							font-size : 10pt;}
+UL{	LIST-STYLE-IMAGE: url(../images/bullit.gif);}
+UL UL {	position : relative;	left : -25px;}
+.navHoofdstuk{	color : #C2C6D5;}
+A {	color : #002E65;}
+A:hover {	color : #8096B2;}
+#content{	top : 15px;	width : 480px;	position : absolute;}
+#menu{<img src="../images/bullitdonker.gif" width="20" height="22" border="0" alt=""> top : 126px;	left : 0px;	width : 175px;  z-index:10;}
+.test1{  position: relative;}
+.faculteitsonderdeel {	font-size : 18px;	font-weight : bold;	color : #002E65; padding-top : 2px;	padding-bottom : 18px;}
+.hoofdstuk {	font-size : 12pt;	font-weight : bold;	padding-bottom : 5px;}
+.paragraaf {	font-size : 11pt;	font-weight : bold;	padding-bottom : 6px;}
+.h4{	font-size : 11pt;	font-weight : bold;	padding-bottom : 6px;}
+.subparagraaf {	font-size : 10pt;	font-weight : bold;}
+.b {	font-size : 10pt;	font-weight : bold;}
+.hornav {	color : #002E65;	font-weight : bold;	text-decoration: none;}
+.hornav:hover{	color : #8096B2;}
+.vertnav {	color : #FFFFFF;	font-weight : bold;	text-decoration: none;	line-height : 18px;}
+.vertnav:hover {	color : #FFFFFF;}
+.vertnavSub {	color : #FFFFFF;	text-decoration: none;	line-height : 18px;}
+.submen1{position:relative; left:30px;}
+.bullet{position:absolute; left:-15px;}
+.vertnavSub:hover {	color : #FFFFFF;}
+.vertnavActive {	color : #FFFFFF;	font-weight : bold;	text-decoration: none;	line-height : 18px;}
+.vertnavActive:hover {	color : #FFFFFF;	font-weight : bold;	text-decoration: none;	line-height : 18px;}
+.vertnavSubActive {	color : #FFFFFF;	text-decoration: none;	line-height : 18px;	font-weight : normal;}
+.vertnavSubActive:hover {	color : #FFFFFF;	text-decoration: none;	line-height : 18px;	font-weight : normal;}

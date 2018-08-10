@@ -1,0 +1,3 @@
+Originelen bij Users
+Grote JPG: width 500 pixels compressie jpg 75 of meer (rond 100 kb) progressief 3 passes
+kleine JPG: width 150 pixels compressie jpg 20 of meer (afh. leesbaarheid) progressive passes 0

@@ -1,0 +1,34 @@
+body, div, span, font, td{
+	font-size : 12px;
+}
+
+UL {
+ list-style-type:square;
+}
+
+.vertnav {
+	position : relative;
+	top : -4px;
+}
+
+.vertnavSub {
+	position : relative;
+	top : -4px;
+}
+
+.vertnavActive {
+	position : relative;
+	top : -4px;
+}
+
+.hoofdstuk {
+	font-size : 15px;
+}
+
+.paragraaf {
+	font-size : 13px;
+}
+
+.subparagraaf {
+	font-size : 12px;
+}

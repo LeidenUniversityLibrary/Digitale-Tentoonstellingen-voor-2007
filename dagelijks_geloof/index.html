@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>Tentoonstelling Dagelijks geloof</title>
+
+<script language="JavaScript">
+  // fix NS4 resizebug
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+</script>
+
+<!--
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+defaultsubpage="content.html";
+if (location.search) {subpage=location.search.substring(1)}
+else {subpage=defaultsubpage}
+
+if (subpage.indexOf('&&&')>=0) {
+prefix=subpage.substring(0,subpage.indexOf('&&&'))+"://";
+suffix=subpage.substring(subpage.indexOf('&&&')+3,subpage.length);
+subpage=prefix+suffix;
+}
+// --> </SCRIPT> 
+
+</head>
+
+<frameset rows="112,*" border="0" framespacing="0" frameborder="0" bordercolor="Red">
+        <noframes>
+-->
+
+</head>
+
+<!--
+<SCRIPT>
+document.write('<frameset rows="112,*" border="0" framespacing="0" frameborder="0" bordercolor="Red">');
+document.write('<frame src="header.html" name="header" id="header" frameborder="No" scrolling="No" noresize marginwidth="0" marginheight="0">');
+document.write('<frameset cols="230,*" border="0" frameborder="0" framespacing="0">');
+document.write('<frame src="menu.html" name="menu" id="menu"  scrolling="Auto" noresize marginwidth="0" marginheight="0"scrolling="Auto" noresize marginwidth="0" marginheight="0" target="_self">');
+document.write('<frame src="'+subpage+'" name="content">');
+document.write('</frameset>');
+document.write('</frameset>');
+</SCRIPT>
+-->
+
+        </noframes>
+        <frame src="../header.html" name="header"  id="header" frameborder="No" scrolling="No" noresize marginwidth="0" marginheight="0">
+    <frameset cols="230,*" border="0" frameborder="0" framespacing="0">
+        <frame src="../menu.html" name="menu"  id="menu" scrolling="Auto" noresize marginwidth="0" marginheight="0" target="rtop">
+        <frame src="inleiding.html"  name="content" id="content"  scrolling="Auto" noresize marginwidth="0" marginheight="0">
+        </frameset>
+</frameset>
+
+
+
+</html>
+
+

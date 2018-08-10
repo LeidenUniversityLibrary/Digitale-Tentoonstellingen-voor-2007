@@ -1,0 +1,39 @@
+body 	{ font-family: Arial, Helvetica, sans-serif; font-weight: normal; text-decoration: none; font-size : 10pt; }
+h3 	{ font-family : arial; font-size : 14pt ; color: #253C82; margin-top : 0px; margin-left: 20px; }
+h4 	{ font-family : tahoma, arial, verdana ; font-size : 10pt ; color: #253C82; line-height : 10pt }
+a:link 	{ color : #002E65; }
+a.current_hoofditem:link 	{ color : #FFFFFF; font-weight : bold; text-decoration: none; line-height : 18px; }
+a.subitem:active 	{ color : #C2C6D5; text-decoration: none; line-height : 18px; }
+a.subitem:hover 	{ color : #FFFFFF; text-decoration: none; line-height : 18px; }
+a.subitem:visited 	{ color : #C2C6D5; text-decoration: none; line-height : 18px; }
+a.subitem:link 	{ color : #C2C6D5; text-decoration: none; line-height : 18px; }
+a.hoofditem:active 	{ color : #C2C6D5; text-decoration: none; line-height : 18px; }
+.hoofdstuk 	{ font-size : 12pt; font-weight : bold; padding-bottom : 5px; }
+a.hoofditem:visited 	{ color : #C2C6D5; text-decoration: none; line-height : 18px; }
+a.hoofditem:link 	{ color : #C2C6D5; text-decoration: none; line-height : 18px; }
+a:visited 	{ color : #002E65; }
+a:active 	{ color : #002E65; }
+a.hoofditem:hover 	{ color: #FFFFFF; text-decoration: none; line-height : 18px; }
+a.current_hoofditem:visited 	{ color : #FFFFFF; font-weight : bold; text-decoration: none; line-height : 18px; }
+a.current_hoofditem:active 	{ color : #FFFFFF; font-weight : bold; text-decoration: none; line-height : 18px; }
+a.current_hoofditem:hover 	{ color : #FFFFFF; font-weight : bold; text-decoration: none; line-height : 18px; }
+a.current_subitem:link 	{ color : #FFFFFF; text-decoration: none; line-height : 18px; }
+a.current_subitem:visited 	{ color : #FFFFFF; text-decoration: none; line-height : 18px; }
+a.current_subitem:hover 	{ color : #FFFFFF; text-decoration: none; line-height : 18px; }
+a.current_subitem:active 	{ color : #FFFFFF; text-decoration: none; line-height : 18px; }
+.faculteitsonderdeel 	{ font-size : 18px; font-weight : bold; color : #002E65; padding-top : 2px; padding-bottom : 18px; }
+b.current_hoofditem 	{ font-family : arial ; font-size : 8pt ; font-weight : 800 ; text-decoration : underline ; color : #ffffff; }
+b.current_hoofditem 	{ font-family : arial ; font-size : 8pt ; font-weight : 800 ; text-decoration : underline ; color : #ffffff; }
+b.subitem 	{ font-family : arial ; font-size : 8pt ; color: #ffffff ; text-decoration : none; font-weight : normal }
+b.hoofditem 	{ font-family : arial ; font-size : 8pt ; font-weight : 800 ; text-decoration : none ; color : #ffffff; }
+a.module:active 	{ color : #002E65; font-weight : bold; text-decoration: none; }
+a.module:hover 	{ color : #8096B2; font-weight : bold; text-decoration: none; }
+a.module:visited 	{ color : #002E65; font-weight : bold; text-decoration: none; }
+a.module:link 	{ color : #002E65; font-weight : bold; text-decoration: none; }
+td.type1 	{ background-color : #DFDFDF }
+td.type2 	{ background-color : #D1D1E9 }
+ul ul 	{ position : relative; left : -25px; }
+a:hover 	{ color : #8096B2; }
+td 	{ font-family: Arial, Helvetica, sans-serif; font-weight: normal; text-decoration: none; font-size : 10pt; }
+div 	{ font-family: Arial, Helvetica, sans-serif; font-weight: normal; text-decoration: none; font-size : 10pt; }
+font 	{ font-family: Arial, Helvetica, sans-serif; font-weight: normal; text-decoration: none; font-size : 10pt; }  
